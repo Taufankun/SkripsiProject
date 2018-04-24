@@ -1,0 +1,2 @@
+# SkripsiProject
+just a repository
